@@ -39,7 +39,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Research
 
-The [wkgCoin Research Lab](https://github.com/wkgcoin-project/research-lab) is an open forum where the community coordinates research into wkgCoin cryptography, protocols, fungibility, analysis, and more. We welcome collaboration and contributions from outside researchers! Because not all Lab work and publications are distributed as traditional preprints or articles, they may be easy to miss if you are conducting literature reviews for your own wkgCoin research. You are encouraged to get in touch with our researchers if you have questions, wish to collaborate, or would like guidance to help avoid unnecessarily duplicating earlier or known work.
+The [wkgCoin Research Lab](https://github.com/wkgcoin-project/research-lab) is an open forum where the community coordinates research into wkgCoin cryptography, protocols, fungibility, analysis, and more. We welcome collaboration and contributions from outside researchers! Because not all Lab work and publications are distributed as traditional preprints or articles, they may be easy to miss if you are conducting literature reviews for your own wkgcoin research. You are encouraged to get in touch with our researchers if you have questions, wish to collaborate, or would like guidance to help avoid unnecessarily duplicating earlier or known work.
 
 Our researchers are available on IRC in [#wkgCoin-research-lab on Libera](https://github.com/wkgcoin-project/research-lab) or by email:
 
